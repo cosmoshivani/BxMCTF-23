@@ -6,13 +6,15 @@ Hi! :wave:
 
 ## 1. Selfie [Forensics]
 
-### Author: clides
-### One day, clides secretly plugged a rubber ducky into Claudio Pacheco's laptop and gained control. While browsing through his files, he found this selfie which contains some secret information.
+#### Author: clides
+#### One day, clides secretly plugged a rubber ducky into Claudio Pacheco's laptop and gained control. While browsing through his files, he found this selfie which contains some secret information.
 
-
+>
 >We have a zip file and after extracting it, we get the following image for this challenge --
 
+
 ![BxMCTF-Foren-1](https://github.com/cosmoshivani/BxMCTF-23/assets/47838688/fe844a74-17bd-47c2-8291-f42ae63850a0)
+
 
 >Let's first check the file using an online Exif Tool
 
