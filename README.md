@@ -1,5 +1,6 @@
 # BxMCTF 2023
 
+![ctflogo](https://github.com/cosmoshivani/BxMCTF-23/assets/47838688/785587b6-2ac5-46ca-991b-315efb103d05)
 
 :mushroom: [BxMCTF 2023](https://ctfmgci.jonathanw.dev/contest/bxmctf2023) 
 
@@ -12,7 +13,7 @@ Hi! :wave:
 
 >We have a zip file and after extracting it, we get the following image for this challenge --
 
-
+![BxMCTF-Foren-1](https://github.com/cosmoshivani/BxMCTF-23/assets/47838688/fe844a74-17bd-47c2-8291-f42ae63850a0)
 
 >Let's first check the file using an online Exif Tool
 
@@ -39,7 +40,8 @@ Hi! :wave:
 
 >given web address --  ```https://bxmweb1.jonathanw.dev/```
 
->The description is hinting towards whether you are a Robot or not. It is one of the most common way of hiding information 
+>The description is hinting towards whether you are a Robot or not. Which indicates that its referring to the robots.txt file that most websites have. Basically, it comes under the Robot Exclusion Protocol, which ensures that the bots will always look for the robots.txt file for the information they are not allowed to access. For example, during web crawling the bot will exclude the information that are not allowed to be indexed. But this disalllowence can easily be bypassed. And some web crawlers might use this file as a guide to get forbidden informations. So, if you go to ```https://bxmweb1.jonathanw.dev/robots.txt``` you will find this- ```Disallow: /very-secretly-hidden```. Now this web address - ```https://bxmweb1.jonathanw.dev/very-secretly-hidden/``` will lead you to the flag ```ctf{sdh57349857243fkhkwAklkAH} ```
+
 
 
  
