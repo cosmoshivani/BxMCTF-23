@@ -1,7 +1,5 @@
 # BxMCTF 2023
 
-![ctflogo](https://github.com/cosmoshivani/BxMCTF-23/assets/47838688/785587b6-2ac5-46ca-991b-315efb103d05)
-
 :mushroom: [BxMCTF 2023](https://ctfmgci.jonathanw.dev/contest/bxmctf2023) 
 
 Hi! :wave:
@@ -10,6 +8,7 @@ Hi! :wave:
 
 ### Author: clides
 ### One day, clides secretly plugged a rubber ducky into Claudio Pacheco's laptop and gained control. While browsing through his files, he found this selfie which contains some secret information.
+
 
 >We have a zip file and after extracting it, we get the following image for this challenge --
 
@@ -37,6 +36,7 @@ Hi! :wave:
  ## 2. Blank Space - I mean Page [Web]
  ### Author: Mani
  ### Have fun finding the flag…regardless if you're capable of solving CAPTCHAs or not.
+ 
 
 >given web address --  ```https://bxmweb1.jonathanw.dev/```
 
