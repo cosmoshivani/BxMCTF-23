@@ -1,6 +1,5 @@
 # BxMCTF 2023
 
-![umdctf23](https://user-images.githubusercontent.com/47838688/235943802-9e825b9b-98e0-4ae1-8168-884e58e6fa40.png)
 
 :mushroom: [BxMCTF 2023](https://ctfmgci.jonathanw.dev/contest/bxmctf2023) 
 
@@ -18,6 +17,9 @@ Hi! :wave:
 >Let's first check the file using an online Exif Tool
 
 :mushroom: [Exif Tool](https://exif.tools/)
+
+![exif](https://github.com/cosmoshivani/BxMCTF-23/assets/47838688/0f879c61-7992-4323-b8b2-a69c1ec6ad7a)
+
 
 >You will find that there is, what seems like an ecoded string in the License section ```Y3Rme25xaUoyQnQyaVZEa2d6fQ```. We can use CyberChef to decode
 
