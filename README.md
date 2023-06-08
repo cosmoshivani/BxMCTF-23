@@ -42,7 +42,7 @@ Hi! :wave:
 
 >given web address --  ```https://bxmweb1.jonathanw.dev/```
 
->The description is hinting towards whether you are a Robot or not. Which indicates that its referring to the robots.txt file that most websites have. Basically, it comes under the Robot Exclusion Protocol, which ensures that the bots will always look for the robots.txt file for the information they are not allowed to access. For example, during web crawling the bot will exclude the information that are not allowed to be indexed. But this disalllowence can easily be bypassed. And some web crawlers might use this file as a guide to get forbidden informations. So, if you go to ```https://bxmweb1.jonathanw.dev/robots.txt``` you will find this- ```Disallow: /very-secretly-hidden```. Now this web address - ```https://bxmweb1.jonathanw.dev/very-secretly-hidden/``` will lead you to the flag ```ctf{sdh57349857243fkhkwAklkAH} ```
+>The description is hinting towards whether you are a Robot or not. Which indicates that its referring to the robots.txt file that most websites have. Basically, it comes under the Robot Exclusion Protocol, which ensures that the bots will always look for the robots.txt file for the information they are not allowed to access. For example, during web crawling the bot will exclude the information that are not allowed to be indexed. But this disalllowence can easily be bypassed. And some web crawlers might use this file as a guide to get forbidden information. So, if you go to ```https://bxmweb1.jonathanw.dev/robots.txt``` you will find this- ```Disallow: /very-secretly-hidden```. Now this web address - ```https://bxmweb1.jonathanw.dev/very-secretly-hidden/``` will lead you to the flag ```ctf{sdh57349857243fkhkwAklkAH} ```
 
 
 
